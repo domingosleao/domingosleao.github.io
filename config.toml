@@ -1,0 +1,80 @@
+baseurl = "/"
+title = "Domingos Leão"
+googleAnalytics = ""
+defaultContentLanguage = "pt-br"
+paginate = 3
+theme = "terrassa"
+
+[params]
+    favicon = "favicon.ico"
+    logo = ""
+
+[params.cta] # Call To Action
+    show = true
+    cta = "Me mande uma mensagem"
+    link = "contact" # Relative URL
+
+[params.separator] # Separators between sections on the home page
+    show = false
+
+[params.fa] # Font Awesome options
+    version = "5.7.2"
+    integrity = "sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP"
+
+[params.form] # Contact form
+    netlify = true
+    action = "https://formspree.io/npxbr@pm.me"
+    method = "POST"
+    inputNameName = "name"
+    inputNameLabel = "Nome"
+    inputNamePlaceholder = "Seu nome"
+    inputEmailName = "email"
+    inputEmailLabel = "Email"
+    inputEmailPlaceholder = "Seu email"
+    inputMsgName = "message"
+    inputMsgLabel = "Sua mensagem"
+    inputMsgLength = 750
+    inputSubmitValue = "Enviar"
+
+[params.posts]
+    showAuthor = false
+    showDate = true
+    showTags = true
+    dateFormat = "Monday, Jan, 2006"
+
+[params.contact] # Contact info
+    email = "sundayslion@yahoo.com.br"
+    phone = ""
+    skype = ""
+    address = ""
+
+[params.social]
+    twitter = "https://twitter.com/domingosleao"
+    instagram = "https://instagram.com/domingosleao"
+    linkedin = "https://www.linkedin.com/in/domingos-le%C3%A3o-34b91921/"
+
+[params.copy] # Copyright
+    copy = "" # Empty for default content
+
+[privacy]
+    [privacy.googleAnalytics]
+        anonymizeIP = true
+        disable = false
+        respectDoNotTrack = true
+        useSessionStorage = false
+    [privacy.instagram]
+        disable = false
+        simple = true
+    [privacy.twitter]
+        disable = false
+        enableDNT = true
+        simple = true
+    [privacy.vimeo]
+        disable = false
+        simple = false
+    [privacy.youtube]
+        disable = false
+        privacyEnhanced = true
+
+[params.languageSwitcher]
+    show = false
