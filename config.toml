@@ -3,6 +3,7 @@ languageCode = "pt-br"
 paginate = 6
 theme = "portio"
 title = "Armazém Soluções Empresariais"
+publishDir = "docs"
 # Main Menu
 [[menu.main]]
 name = "Início"
