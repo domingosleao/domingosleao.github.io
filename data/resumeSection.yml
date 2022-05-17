@@ -1,0 +1,30 @@
+---
+enable: true
+topTitle: Princípios Organizacionais
+title: >
+  ### Nossos Princípios Organizacionais
+
+# tab1Name: Missão
+# tab2Name: Visão
+# tab1Target: mission
+# tab2Target: vision
+
+education:
+  - content: >
+      #### Nossa Missão
+
+      Trabalhamos para o desenvolvimento da excelência na gestão organizacional de nossos clientes, provendo soluções empresariais sustentáveis que promovam a melhoria de sua competitividade.
+  - content: >
+      #### Nossa Visão
+
+      Obter do mercado o reconhecimento de sermos um parceiro estratégico no ramo de consultoria organizacional.
+  - content: >
+      #### Nossos Valores
+
+      - **Crença em Deus** - Acreditamos na onisciência, onipresença e onipotência de Deus.
+
+      - **Foco em Resultado** - É necessário definir objetivos e metas, direcionando os esforços para alcançá-los.
+
+      - **Ética e Transparência nos relacionamentos** - Imprescindível para preservar os vínculos de confiança com os nossos clientes e sociedade. Deve ser um vetor fundamental a contribuir para o crescimento sustentável da empresa.
+
+      - **Compromisso com o cliente** - Nosso compromisso com o cliente está diretamente relacionado com nosso comprometimento com a busca pela excelência em tudo aquilo que fazemos.

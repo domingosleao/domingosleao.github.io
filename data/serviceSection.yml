@@ -1,0 +1,39 @@
+---
+enable: true
+title: >
+  ## Nossos serviços
+
+  São mais de 200 empresas atendidas nas mais variadas soluções.
+
+service:
+  - content: >
+      #### Planejamento Estratégico
+
+      A elaboração do Planejamento Estratégico é fator chave para alicerçar e promover a expansão do negócio, com a definição de diretrizes a serem seguidas, criação de objetivos estratégicos, metas e indicadores, a fim de que a organização esteja preparada para atuar com competitividade e garantir a perenização da atividade.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Plano de Negócios
+
+      Um Plano de Negócios é uma ferramenta essencial para o planejamento de novos projetos, possibilitando minimizar riscos, tempo e gastos.Neste sentido, ajudamos na construção de cada etapa do plano. Levantamos os pontos fracos e fortes do negócio, as ameaças e oportunidades do mercado, reduzindo os riscos das novas operações para a organização no futuro. Elaboramos em conjunto um Plano de Ação para mitigação dos pontos fracos e ameaças.
+    image: images/service/web.svg
+  - content: >
+      #### Diagnóstico Empresarial
+
+      Realizamos um verdadeiro "Raio x" da atual situação da sua empresa detalhando ineficiências e propondo ajustes que a torne mais ágil e eficaz no dia a dia. Com base em nossa experiência do mercado junto a empresas de diversos portes, elaboramos um diagnóstico em que levantamos fatores considerados essenciais para que as empresas se revitalizem, cresçam, se mantenham atualizadas e preparadas para enfrentar o futuro.
+    image: images/service/creative.svg
+  - content: >
+      #### Mapeamento de Processos
+
+      O Mapeamento de processos é um mecanismo que busca entender como funcionam os procedimentos operacionais dentro de uma empresa, além de analisar a entrada, saída e outras ações que acontecem nesse ambiente. Por meio dessa metodologia é possível entender como as atividades são realizadas e detectar desvios, retrabalhos, redundâncias e desperdícios.
+
+    image: images/service/branding.svg
+  - content: >
+      #### Gestão na Palma da Mão
+
+      Aplicação de uma ferramenta de Gestão da Qualidade baseada nos 5 dedos da mão, identificando as coisas mínimas que a empresa precisa ter, seus parceiros, suas decisões, construção dos indicadores estratégicos, metas e objetivos estratégicos e finalmente a análise de resultados que geram valor para a organização.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### 5S
+
+      O Programa 5S é uma filosofia de trabalho que busca promover a disciplina na empresa através de consciência e responsabilidade de todos, de forma a tornar o ambiente de trabalho agradável, seguro e produtivo. É possível eliminar o desperdício (tudo o que gera custo extra) em cinco fases, com base no método 5S. A “Cultura do 5S” permite fácil aplicação em diversos ambientes e faz com que pequenas mudanças do dia a dia proporcionem um grande resultado.
+    image: images/service/web.svg

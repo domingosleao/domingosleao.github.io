@@ -1,7 +1,4 @@
 ---
-title: 'Contato'
-description: ''
-draft: false
-menu: main
-weight: 3
+title: Entre em contato
+breadcrumb: Contato
 ---

@@ -1,80 +1,72 @@
-baseurl = "/"
-title = "Domingos Leão"
-googleAnalytics = ""
-defaultContentLanguage = "pt-br"
-paginate = 3
-theme = "terrassa"
+baseURL = "https://domingosleao.com/"
+languageCode = "pt-br"
+paginate = 6
+theme = "portio"
+title = "Armazém Soluções Empresariais"
+# Main Menu
+[[menu.main]]
+name = "Início"
+url = "#home"
+weight = 1
+[[menu.main]]
+name = "Sobre"
+url = "#about"
+weight = 2
+[[menu.main]]
+name = "Nossos serviços"
+url = "#service"
+weight = 3
+[[menu.main]]
+name = "Princípios Organizacionais"
+url = "#resume"
+weight = 4
+
+# Sitemap Menu
+[[menu.sitemap]]
+name = "Sobre a empresa"
+url = "about"
+weight = 1
+[[menu.sitemap]]
+name = "Entre em contato"
+url = "contact"
+weight = 2
+
 
 [params]
-    favicon = "favicon.ico"
-    logo = ""
+blogPageURL = "blog"
+contactLink = "contact"
+copyright = ""
+footerLogo = "images/contact/widget-logo.png"
+formspreeURL = "https://formspree.io/f/xnqglobv"
+googleAnalytics = "G-RKY0QK9FFC"
+logo = "images/site-navigation/logo.png"
 
-[params.cta] # Call To Action
-    show = true
-    cta = "Me mande uma mensagem"
-    link = "contact" # Relative URL
+[params.address]
+address = "Av. Fernandes Lima, 8, sala 406, cx post H21 - Edf. Com. Centenário Plaza - Farol - Maceió - AL CEP 57050-000"
+email = "contato@domingosleao.com"
+openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
+phone = "+(55) 82 993055821"
 
-[params.separator] # Separators between sections on the home page
-    show = false
+[params.map]
+APIkey = ""
+latitude = "-9.650010"
+longitude = "-35.733300"
+pinImage = "images/pin.png"
 
-[params.fa] # Font Awesome options
-    version = "5.7.2"
-    integrity = "sha384-0pzryjIRos8mFBWMzSSZApWtPl/5++eIfzYmTgBBmXYdhvxPc+XcFEk+zJwDgWbP"
-
-[params.form] # Contact form
-    netlify = true
-    action = "https://formspree.io/npxbr@pm.me"
-    method = "POST"
-    inputNameName = "name"
-    inputNameLabel = "Nome"
-    inputNamePlaceholder = "Seu nome"
-    inputEmailName = "email"
-    inputEmailLabel = "Email"
-    inputEmailPlaceholder = "Seu email"
-    inputMsgName = "message"
-    inputMsgLabel = "Sua mensagem"
-    inputMsgLength = 750
-    inputSubmitValue = "Enviar"
-
-[params.posts]
-    showAuthor = false
-    showDate = true
-    showTags = true
-    dateFormat = "Monday, Jan, 2006"
-
-[params.contact] # Contact info
-    email = "sundayslion@yahoo.com.br"
-    phone = ""
-    skype = ""
-    address = ""
-
-[params.social]
-    twitter = "https://twitter.com/domingosleao"
-    instagram = "https://instagram.com/domingosleao"
-    linkedin = "https://www.linkedin.com/in/domingos-le%C3%A3o-34b91921/"
-
-[params.copy] # Copyright
-    copy = "" # Empty for default content
-
-[privacy]
-    [privacy.googleAnalytics]
-        anonymizeIP = true
-        disable = false
-        respectDoNotTrack = true
-        useSessionStorage = false
-    [privacy.instagram]
-        disable = false
-        simple = true
-    [privacy.twitter]
-        disable = false
-        enableDNT = true
-        simple = true
-    [privacy.vimeo]
-        disable = false
-        simple = false
-    [privacy.youtube]
-        disable = false
-        privacyEnhanced = true
-
-[params.languageSwitcher]
-    show = false
+# Social icons
+[[params.social]]
+icon = "fa-linkedin-square"
+url = "https://www.linkedin.com/in/domingos-le%C3%A3o-34b91921/"
+weight = 1
+[[params.social]]
+icon = "fa-facebook-square"
+url = "https://www.facebook.com/leaodomingos/"
+weight = 2
+[[params.social]]
+icon = "fa-youtube-square"
+url = "https://www.youtube.com/user/leaodomingos"
+weight = 3
+[[params.social]]
+icon = "fa-instagram-square"
+url = "https://www.instagram.com/domingosleao/"
+weight = 4

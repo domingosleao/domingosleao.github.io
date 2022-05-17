@@ -1,0 +1,11 @@
+---
+enable: true
+content: >
+  # Sua empresa está preparada para o próximo lance?
+
+  Num ambiente altamente competitivo, saber como se destacar é um diferencial que pode representar sucesso ou fracasso. Nós te auxiliamos a alcançar os objetivos necessários.
+buttonName: Entre em contato
+buttonURL: contact
+image: images/hero/domingos-inicio.jpg
+# videoThumb: images/hero/popup-thumb.png
+# videoURL: https://www.youtube.com/watch?v=dQw4w9WgXcQ
