@@ -1,29 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Portio</title>
-    <link>http://domingosleao.com/categories/</link>
-    <description>Recent content in Categories on Portio</description>
+    <title>Categories on Armazém Soluções Empresariais</title>
+    <link>https://domingosleao.com/categories/</link>
+    <description>Recent content in Categories on Armazém Soluções Empresariais</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language>
-    <lastBuildDate>Sun, 13 Sep 2020 12:49:27 +0600</lastBuildDate><atom:link href="http://domingosleao.com/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>blog</title>
-      <link>http://domingosleao.com/categories/blog/</link>
-      <pubDate>Sun, 13 Sep 2020 12:49:27 +0600</pubDate>
-      
-      <guid>http://domingosleao.com/categories/blog/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>documentation</title>
-      <link>http://domingosleao.com/categories/documentation/</link>
-      <pubDate>Mon, 13 Jul 2020 13:06:26 +0600</pubDate>
-      
-      <guid>http://domingosleao.com/categories/documentation/</guid>
-      <description></description>
-    </item>
-    
+    <language>pt-br</language><atom:link href="https://domingosleao.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
