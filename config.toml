@@ -1,4 +1,4 @@
-baseURL = "https://domingosleao.com/"
+baseURL = "https://domingosleao.github.io/"
 languageCode = "pt-br"
 paginate = 6
 theme = "portio"
