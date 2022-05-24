@@ -48,26 +48,16 @@ email = "contato@domingosleao.com"
 openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
 phone = "+(55) 82 993055821"
 
-[params.map]
-APIkey = ""
-latitude = "-9.650010"
-longitude = "-35.733300"
-pinImage = "images/pin.png"
-
 # Social icons
 [[params.social]]
-icon = "fa-linkedin-square"
+icon = "fa-linkedin"
 url = "https://www.linkedin.com/in/domingos-le%C3%A3o-34b91921/"
-weight = 1
 [[params.social]]
 icon = "fa-facebook-square"
 url = "https://www.facebook.com/leaodomingos/"
-weight = 2
 [[params.social]]
 icon = "fa-youtube-square"
 url = "https://www.youtube.com/user/leaodomingos"
-weight = 3
 [[params.social]]
 icon = "fa-instagram-square"
 url = "https://www.instagram.com/domingosleao/"
-weight = 4
