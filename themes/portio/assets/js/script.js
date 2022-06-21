@@ -88,23 +88,22 @@ $(document).ready(function() {
     // service slider
     $(".service__slider").slick({
         infinite: false,
-        slidesToShow: 3,
-        slidesToScroll: 1,
-        dots: false,
-        arrows: false,
+        slidesToShow: 2,
+        dots: true,
+        arrows: true,
+        variableWidth: true,
         responsive: [
             {
                 breakpoint: 992,
                 settings: {
                     slidesToShow: 2,
-                    slidesToScroll: 1,
                     dots: true,
                 },
             },
             {
                 breakpoint: 768,
                 settings: {
-                    slidesToShow: 1,
+                    slidesToShow: 2,
                     slidesToScroll: 1,
                     dots: true,
                 },
@@ -143,7 +142,7 @@ $(document).ready(function() {
         slidesToShow: 2,
         slidesToScroll: 1,
         dots: true,
-        arrows: false,
+        arrows: true,
         autoplay: true,
         autoplaySpeed: 10000,
         responsive: [
