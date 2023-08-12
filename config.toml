@@ -45,13 +45,12 @@ logo = "images/site-navigation/logo.png"
 [params.address]
 address = "Av. Fernandes Lima, 8, sala 406, cx post H21 - Edf. Com. Centenário Plaza - Farol - Maceió - AL CEP 57050-000"
 email = "contato@domingosleao.com"
-openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
 phone = "+(55) 82 993055821"
 
 # Social icons
 [[params.social]]
 icon = "fa-linkedin"
-url = "https://www.linkedin.com/in/domingos-le%C3%A3o-34b91921/"
+url = "https://www.linkedin.com/in/domingosleao/"
 [[params.social]]
 icon = "fa-facebook-square"
 url = "https://www.facebook.com/leaodomingos/"
